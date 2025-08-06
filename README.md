@@ -5,7 +5,7 @@
 ---
 
 Actualmente me encuentro en un proceso de aprendizaje y crecimiento profesional.  
-Me estoy formando en:
+Mis intereses principales son:
 - Ciencia y análisis de datos  
 - Desarrollo web y de software  
 - Diseño de interfaces UX/UI, con foco en **diseño centrado en el usuario**, usabilidad y accesibilidad.
